@@ -5,5 +5,6 @@ public class A {
         String A;
         String B;
         String C;
+        String D;
     }
 }
